@@ -1,0 +1,3000 @@
+0 a man in a blue shirt is giving a lecture
+1 a person is explaining something
+2 a person is holding a lizard
+3 a man is riding a horse
+4 a man is sitting in a car
+5 a man with a red face with a red face and red lipstick
+6 a child is playing with her toys
+7 a group of men are having a conversation with a man
+8 a man is talking
+9 a man in a black t-shirt is showing how to do something
+10 a person is playing a video game
+11 a person is cutting a potato
+12 a person is cutting a piece of meat on a cutting board
+13 a woman is talking about a flower
+14 a plane is being displayed
+15 a man and a woman are in bed
+16 a man is dancing
+17 a man is talking about a toy
+18 a person is drawing a picture
+19 an advertisement for a movie is being shown
+20 a girl is doing gymnastics
+21 a man is talking about the screen
+22 there is a woman in white is smiling
+23 an advertisement for a website is shown
+24 someone is showing a car
+25 a man in a suit is talking to a man
+26 a man is showing how to use a phone
+27 there is a man is standing on the floor
+28 a man is working on a machine
+29 a group of people are on a beach
+30 a car is shown
+31 a man in a shirt is talking about something
+32 a man is talking
+33 a man is a woman s hair
+34 a man is cooking
+35 a man is standing
+36 a person is explaining something
+37 a person is cooking
+38 a man is standing
+39 a young girl in a pink shirt is talking to a child
+40 a person is folding paper
+41 a horse is eating
+42 a person is cooking
+43 a man is talking about a computer screen
+44 a man is working on a car
+45 a woman is singing
+46 a dog is sitting
+47 a picture of an animal is shown
+48 there is a woman is talking about a
+49 a woman in a white dress is in a bed
+50 a man is performing on stage
+51 a man is singing
+52 a man is showing a computer
+53 a cat is sitting in a glass bowl
+54 a woman in a blue shirt is talking in a studio
+55 a video of a video game
+56 there is a woman is talking about a snake
+57 a white dog is sitting on the floor
+58 a video of a tank
+59 a woman and a bowl spoon mixing dish inside kitchen to prepare to serve to eat displaying on screen
+60 a man is singing
+61 a person is cooking
+62 a man is giving a speech
+63 a man in a suit is standing in the snow
+64 a man and a woman are in a bed
+65 a man is talking
+66 a person is holding a tree
+67 a boat is sailing in the water
+68 a man in a suit is talking to a man
+69 there is a man talking about a building
+70 a person is playing a video game
+71 some people are dancing
+72 a person is pouring liquid into a bottle
+73 a man in a white shirt and a white shirt is singing
+74 someone is playing a game
+75 a man is playing a guitar
+76 a truck is being displayed
+77 a man is showing a gun
+78 a man is talking about a device
+79 a man is talking to a group of people
+80 a man is cutting a piece of wood
+81 a man is talking
+82 a group of people are dancing
+83 a man is talking
+84 a woman is riding a horse
+85 a man in a suit is talking to a man
+86 a woman is playing a guitar
+87 a woman is talking
+88 a man is standing
+89 a person is folding paper
+90 a man is driving a car
+91 a man is standing
+92 a man is standing
+93 a man is talking
+94 a man in a white shirt is talking about a news
+95 a woman is standing
+96 fireworks are exploding in the sky
+97 a man is talking
+98 a woman is talking about a plane
+99 a cat is sitting on the floor
+100 a cartoon character is talking
+101 a man is cutting a wire
+102 a woman is a machine
+103 cartoon characters are interacting
+104 a man in a white shirt is talking to a man in a white shirt
+105 a man is walking through a amusement park
+106 a woman is standing
+107 a beautiful view of a lake and a lake is shown
+108 a man is sitting on a couch
+109 a person is preparing a dish in a kitchen
+110 a baby is playing with a cat
+111 a woman is talking to a man
+112 a man is talking to a woman
+113 a man and a woman are standing in front of a screen
+114 a man is talking about a website
+115 a man is looking at something
+116 a group of people are dancing
+117 a picture of a picture
+118 a slideshow of pictures of a woman
+119 a man is riding a boat in the ocean
+120 a woman is talking
+121 a man is standing
+122 a man is riding a motorcycle and riding a bike
+123 a woman in a blue shirt is talking in front of a camera
+124 a man is walking
+125 a man is walking down the street
+126 a woman is swimming
+127 a man is talking to a woman
+128 a person is explaining something
+129 a man is talking
+130 a person is preparing food
+131 a woman is standing
+132 a person is cooking potatoes
+133 a woman is talking about her bag and her bag
+134 a woman is giving a speech
+135 a man is running in a field
+136 a man is standing
+137 a minecraft demonstration video
+138 a person is playing with a toy
+139 a man and woman are talking
+140 a person is playing a video game
+141 a man is singing
+142 a person is solving a rubik s cube
+143 a woman is talking
+144 a woman is talking
+145 a woman in a dress is standing
+146 a man is shown
+147 a woman is standing
+148 a group of people are in a room
+149 a man in a yellow shirt is talking about a yellow car
+150 a man is driving a car
+151 a man in a kitchen
+152 two girls are talking
+153 a man is standing
+154 a man and woman are sitting in a car
+155 a man is walking
+156 a man is singing
+157 a person is playing a video game
+158 a man is jumping on a trampoline
+159 a man is playing a guitar
+160 a woman is running
+161 a cartoon is singing
+162 a man is dancing
+163 a woman is showing how to prepare a dish
+164 a man in a black shirt is looking at a camera
+165 a man is talking about a tiger
+166 a man is talking
+167 a group of people are walking
+168 there is a woman is talking about a building
+169 a person is drawing a picture on a white board
+170 a man in a white shirt is walking with a baby
+171 a car is driving down the road
+172 a person is cutting a piece of bread
+173 a man is playing a guitar
+174 a person is playing with a
+175 a person is playing a video game
+176 a person is playing a video game
+177 a man is walking down the street
+178 a man is talking about a girl
+179 a man is playing the guitar
+180 a cartoon character is falling down
+181 a man is pouring water
+182 a picture of an animal
+183 a man is riding a bike
+184 a man is smiling
+185 a person is playing a video game
+186 a cat is jumping in a glass bowl
+187 a woman is talking about a recipe
+188 a woman is talking
+189 person is recording the big trees and the
+190 a woman is talking to a man in a room
+191 a man in a white shirt is standing in a classroom
+192 a commercial for a movie
+193 a woman is swimming
+194 a man is talking about a product
+195 a man and woman are talking
+196 a woman is talking about something
+197 a man and woman are talking
+198 a man and woman are kissing
+199 a man is talking about a
+200 people are shopping in a store
+201 a man is talking
+202 a man is sitting on a couch
+203 a man is playing guitar
+204 people are singing and dancing
+205 a man is talking
+206 a man and a woman are having a conversation
+207 there are some people walking in to the
+208 a man is talking to a woman
+209 a man is doing a back flip
+210 a group of people are on a beach
+211 a man is talking
+212 person is recording the big rocks near the rocks
+213 a man is standing
+214 a person is cooking potatoes
+215 people are playing soccer
+216 a man is talking about a
+217 a woman is talking
+218 a woman in a pink shirt is talking to a woman
+219 a man is looking at a map
+220 a woman is cooking
+221 a girl is driving a car
+222 a woman is talking
+223 a man in a white shirt is talking to a man
+224 a woman is singing
+225 a man is talking
+226 a man is flying
+227 a woman in a green jacket is talking to a woman
+228 a man is playing drums
+229 a football game is being played
+230 a man is talking
+231 a man is standing
+232 a group of people are walking
+233 a man and a woman are talking
+234 a man is talking about a
+235 a person is playing a video game
+236 a man is looking at a small animal
+237 a group of horses are running around a track
+238 there is a woman is talking about a fish
+239 a person is holding a candy
+240 a man is singing
+241 a man is talking about a car
+242 a slideshow of pictures of a woman
+243 someone is playing a game
+244 a horse is standing in a field
+245 a man and woman are talking
+246 there is a picture of a man in a room
+247 a cartoon character is standing
+248 a woman is showing a piece of bread
+249 a man is standing
+250 two people are talking
+251 there is a man talking about a fish
+252 a football game is being played
+253 a man is laying down
+254 a man is playing a guitar
+255 a man is driving a car
+256 a video of a forest
+257 a man is talking
+258 a man is walking on a track
+259 a dog is playing
+260 a group of soldiers are fighting
+261 a woman is cooking
+262 a lion is running
+263 a group of people are dancing
+264 a group of people are talking
+265 a man is singing
+266 a woman in a blue shirt is talking in a room
+267 a man and a woman in a room
+268 a man is talking about a phone
+269 a man is playing basketball
+270 someone is playing a game
+271 a girl in a pink shirt and a man in a pink shirt
+272 a boy and girl are talking
+273 people are playing soccer
+274 a woman is folding a piece of paper
+275 someone is showing some food
+276 a man is talking
+277 a woman is talking
+278 a man is driving a car
+279 there is a man is talking about a dish
+280 a man is talking about a
+281 a man is playing guitar
+282 a man is talking
+283 a man is talking
+284 a woman is talking
+285 a woman is standing
+286 a man is showing how to use a
+287 a man is talking
+288 a man is walking
+289 a man is talking
+290 a group of people singing on stage
+291 a man is walking
+292 a man is holding a gun in his hand
+293 a man is talking to a boy
+294 a man is looking at a window
+295 a person is playing a video game
+296 a man is talking
+297 a man and woman are kissing
+298 a cartoon dog is talking
+299 a man in a kitchen is talking to a man
+300 a man is using a man
+301 a man is talking
+302 a man is driving a car
+303 a cartoon character is running around
+304 a person is playing with toys
+305 a man is talking
+306 a man is cutting a piece of paper in his hand
+307 a man is standing
+308 a person is playing with toys
+309 a cartoon train is riding on a track
+310 a man in a suit is talking to a man
+311 a man is talking about a toilet
+312 a slideshow of cats
+313 a dog is standing
+314 a person is riding a motorcycle down a highway
+315 there is a beautiful mountain with trees and a
+316 an animal is shown
+317 a man is talking on stage
+318 a person is talking
+319 a man in a mask
+320 a cartoon character is talking to a
+321 a cartoon character is talking to a man
+322 there is a man talking about the forest
+323 a woman is singing
+324 a woman in a blue shirt is talking about something
+325 there is a boat traveling on the sea
+326 there is a beautiful beach with beautiful water
+327 a woman is talking
+328 a person is cooking a dish in a pan
+329 a machine is working on a machine
+330 a man is standing
+331 a man is singing
+332 a man and a woman are talking
+333 a man is talking
+334 a man is talking
+335 a group of people are at a table
+336 a man is cooking
+337 a woman is talking
+338 there is a woman is talking in the snow
+339 there is a man in black is talking from a studio
+340 a person is explaining something
+341 a man is talking
+342 a man throws a fire
+343 a woman is lying on a bed
+344 a woman is sitting in a car and talking
+345 a man is on a motorcycle
+346 a person is playing a video game
+347 a man is talking
+348 a woman is standing
+349 a person is playing a video game
+350 a person is playing with a toy
+351 a man is singing
+352 a cartoon character is talking
+353 a man is talking about a car
+354 pictures of a woman
+355 a person pours liquid into a cup
+356 a boat is being filmed
+357 a person is playing with a
+358 there is a dog is walking on the floor
+359 there is a man talking about a plant
+360 a man is walking through a city
+361 a band is performing a song on stage
+362 a cartoon character is talking
+363 a man in a black shirt is talking about something
+364 a football game is being played
+365 a woman is standing
+366 a man is talking about the earth of the earth
+367 a woman is standing
+368 a man is looking at a store
+369 people are dancing and singing
+370 a man is holding a gun
+371 someone is filming a city
+372 a group of people are dancing
+373 a person is preparing a dish in a bowl
+374 a man is talking about a
+375 cartoon characters are interacting
+376 fireworks are exploding in the sky
+377 a woman is standing in a field and talking
+378 a man is talking about a
+379 there is a woman is talking with a man
+380 there is a man talking about a river
+381 a group of people are on stage
+382 a woman is making a flower
+383 a person is drawing
+384 a man is talking about a product
+385 a woman in a blue shirt and white pants is in a cage
+386 a group of men are fighting
+387 a person is playing a video game
+388 a person is playing a video game
+389 a group of people are dancing
+390 a man is showing how to clean a
+391 spongebob and patrick are talking
+392 a man is standing
+393 a group of animals are in a field
+394 a woman is talking about a recipe
+395 pictures of wolves are shown
+396 a person is playing a video game
+397 a man is standing
+398 a woman in a blue jacket and a blue jacket is talking
+399 a woman is laying down
+400 a video of a car
+401 a man in a blue shirt is standing in a field
+402 a man is talking
+403 a woman is talking about food
+404 a cartoon is singing
+405 there is a man is running on the road
+406 a cartoon character is talking
+407 a man in a suit is talking
+408 a man is singing
+409 a man is working on a
+410 a slideshow of pictures of people
+411 a person is showing how to prepare a recipe
+412 a woman walks down a street
+413 a person is explaining something
+414 a group of people are shown
+415 a cartoon character is hitting a ball
+416 a picture of a mountain and a picture of a man
+417 a woman is singing
+418 a man in a blue shirt is talking to a man
+419 a man and woman are talking
+420 there is a man is talking about a food
+421 bill murray is being interviewed by david letterman
+422 a man is showing a fuse
+423 a man is standing on the beach and a woman is standing
+424 a man is climbing a rope
+425 a man is singing
+426 a man is talking about a motorcycle
+427 a man and a woman are talking
+428 a woman is applying makeup
+429 a man is working on a car
+430 people are playing soccer
+431 a man is talking
+432 a man in a red shirt and a pink shirt and a pink shirt and a pink shirt and a
+433 a man and a woman are sitting in a car
+434 a man is applying makeup to his face
+435 there is a man talking about a
+436 a man is talking
+437 a woman in a green shirt sits in a chair and talks
+438 a still image of a man standing on top of a wall
+439 a monkey is playing with a cat
+440 a man is sitting in a car
+441 two girls are eating
+442 a man is talking
+443 there is a man is talking about a lab
+444 a man with a hat is talking to the camera
+445 pictures of a woman and a man
+446 a man is playing a guitar
+447 two dogs are sitting on a couch
+448 a dog is walking around
+449 a cartoon of animals
+450 a man is working on a roof
+451 a man is driving a car
+452 a man is walking on a roof
+453 there is a man talking about a
+454 a person is explaining something
+455 a cheetah in a field
+456 a woman is talking about a stroller
+457 a man in a green shirt is using a spoon to cut a piece of paper
+458 a man in a black suit is talking to a man
+459 a band is performing on stage
+460 a man is standing
+461 there is a big truck is moving in the water
+462 a group of people are on a stage
+463 a person is playing a video game
+464 a man is standing
+465 there is a man is talking about a
+466 a man is talking
+467 a man is talking
+468 a person is playing a video game
+469 a woman in a black shirt is applying makeup
+470 a man is standing
+471 a man and a woman are talking
+472 a man in a blue shirt sits in a chair and talks
+473 a woman is singing
+474 a woman is sitting in a car and talking
+475 a man is standing
+476 a woman is talking
+477 a man is talking about a
+478 a woman is playing with her toys
+479 a man is talking
+480 a man in a suit is talking to a man
+481 a woman is singing
+482 a man is singing
+483 a man is talking
+484 a woman is talking into a microphone
+485 a duck is sitting in a nest
+486 a woman is demonstrating a stroller
+487 a man and woman are talking
+488 a plane is parked on the ground
+489 a man in a black jacket stands in front of a mountain
+490 a man is showing how to fix a car
+491 a person is recording a rock
+492 a cartoon character is riding a bus
+493 a man is fixing a
+494 a man is walking around a room
+495 a girl is singing
+496 a man is walking
+497 a person is doing tricks
+498 a man is walking
+499 a baby and a baby are sitting on a bed
+500 a man is being interviewed
+501 a man and woman are kissing
+502 models are walking down a runway
+503 a man in a suit is talking to a camera
+504 a person is explaining something
+505 a man is singing
+506 a man is holding a gun
+507 a man in a blue shirt is talking about something
+508 a man is talking about a bathroom
+509 a man is singing
+510 a man does a backflip on a trampoline
+511 two girls are talking
+512 a man in a black shirt is standing next to a car
+513 a man is talking about a video game
+514 a man is giving a speech
+515 a person is playing a video game
+516 a man in a blue shirt is talking about something
+517 a man in a white shirt is in a hospital room
+518 cartoon characters are racing
+519 a camel is standing in a field and a woman is standing
+520 a white dog is sitting in a room
+521 a woman is talking to a man
+522 a man is talking about the ingredients
+523 a man and a woman standing on a stage
+524 a man in a white shirt is talking to a camera
+525 people are walking in a mall
+526 a man is talking
+527 a man is talking about something
+528 a man is talking about a car
+529 a man is singing
+530 a person is cooking
+531 a man is throwing a ball
+532 a helicopter is flying
+533 a man in a black shirt is eating food
+534 a man is talking to a robot
+535 a man and a woman are singing
+536 an advertisement for a video game is shown
+537 a man is talking about a video game
+538 a woman is folding a
+539 there is a beautiful beach with a beach
+540 a woman is talking about something
+541 a logo is shown
+542 a group of people are talking
+543 a dog is being fed
+544 a woman is singing
+545 a man in a red shirt is hitting a ball
+546 a band is performing a song
+547 a person is talking about something
+548 there is a man talking about a new
+549 a man and a woman are sitting on a couch
+550 there is a man walking on the beach
+551 a man is talking
+552 a cartoon cat is standing
+553 a car is shown
+554 a person is explaining something
+555 there is a woman talking about a animal
+556 a man is showing how to cook a dish
+557 a woman is playing the violin
+558 a water is moving in the water
+559 a man in a blue shirt is talking to a camera
+560 a man is playing a violin
+561 a woman is showing how to put on makeup
+562 a woman is applying makeup to her face
+563 a man in a mask is walking
+564 a person is cooking
+565 a pack of animals fighting
+566 a man is riding a horse on a track
+567 a woman is looking at a man in a room
+568 a man is talking
+569 a woman is sitting in a chair and talking
+570 a cartoon character is standing
+571 a woman is looking at a
+572 a man is talking about a business
+573 a man is talking
+574 a man is standing
+575 a man is standing
+576 a boy and girl are talking
+577 cartoon characters are interacting
+578 a man is talking
+579 a man is talking
+580 a girl is playing a ball
+581 a man is giving a speech
+582 a woman is dancing
+583 a man is fixing his hair
+584 a woman is walking on a bridge
+585 a woman is talking
+586 a woman talks about how to make a pet
+587 a person is walking through a tree and talking
+588 a man is talking
+589 a woman is talking about a
+590 a group of people are walking on a beach
+591 a man in a black shirt is talking about something
+592 a man is fixing a car
+593 a woman is talking
+594 someone is showing some food
+595 a man is on a roof
+596 a man is working on a computer
+597 two men are talking
+598 a man is looking at a piece of paper
+599 a man is talking
+600 a man in a black shirt is talking in front of a computer
+601 a person is explaining something
+602 a woman is talking
+603 a person is playing a video game
+604 a man is talking
+605 a picture of a woman
+606 a person is playing a video game
+607 a person is cooking a dish in a pan
+608 a man is singing
+609 a man is giving a lecture
+610 a man and a woman are talking
+611 a man is talking about something
+612 a man is walking around a room with a room
+613 a man is playing the violin
+614 a man is talking
+615 a man is talking
+616 a man is talking into a microphone
+617 a group of people are standing in a room
+618 a man is riding a motorcycle
+619 a group of people are dancing
+620 a woman is being interviewed
+621 a person is drawing
+622 a person is showing a machine
+623 a man and a woman are talking to each other
+624 a man is singing
+625 there is a man talking about the earth
+626 a cat is sitting on the floor
+627 a person is talking about a
+628 a man is talking about a woman
+629 a video of a temple
+630 a person is explaining something
+631 bill murray on david letterman
+632 a woman is walking down the stairs
+633 a man is talking
+634 a person is making a craft
+635 a person is writing on a white board
+636 there is a man is talking about a garden
+637 a man is talking
+638 a man is singing
+639 a man is on a beach
+640 there is a man walking on the floor
+641 a woman is talking
+642 there is a man is talking about a
+643 a man is holding a bag
+644 a slideshow of pictures of people
+645 a man is talking
+646 a man is driving a car
+647 a woman is walking
+648 a man is talking
+649 a person is explaining something
+650 a man in a white shirt is talking to a man
+651 a band is playing on stage
+652 there is a man talking about a new product
+653 a woman is singing
+654 a man is explaining something
+655 a man is playing the violin
+656 there is a man is standing in the water
+657 a person pours some liquid into a cup
+658 a man is talking to a woman in a room
+659 a man is talking about a stroller
+660 a man is riding on a hill
+661 there is a snake is on the ground
+662 people are walking down the street
+663 a person is explaining something
+664 a man and woman are kissing
+665 there is a man is talking about a machine
+666 a man is giving a lecture on stage
+667 a person is explaining something
+668 a man is talking about a
+669 a woman in a white shirt is talking to a camera
+670 a man is holding a baby
+671 a man is talking about a cartoon
+672 a man is talking
+673 a man in a red shirt is walking around a room
+674 a group is dancing
+675 a girl is jumping on a trampoline
+676 a boy is jumping on a trampoline
+677 a cartoon character is talking
+678 a dog is walking on the road
+679 a cat is holding a baby
+680 a person is playing a video game
+681 a man is a stage
+682 a woman with a microphone is talking into a microphone
+683 a man is walking down a hallway
+684 a band is performing a song
+685 a man in a black shirt is standing in front of a wall
+686 a woman is dancing on the beach
+687 a woman is talking about a product
+688 a man is talking
+689 a boy in a dress and a boy and a boy in the snow
+690 someone is playing a game
+691 a man is talking to a woman
+692 a man is talking about a car
+693 football players are playing football
+694 a man and a woman are kissing
+695 a man is holding a baby bear
+696 a man is singing
+697 there is a man is swimming in the sea
+698 a person is talking about a city
+699 lyrics to a song
+700 a person is preparing a cake
+701 a water scene trees beside displaying on screen
+702 a man in a white shirt is talking to a man
+703 a person is playing a video game
+704 a woman is standing
+705 pictures of a car
+706 a cartoon is shown
+707 a person is playing a video game
+708 a man with a beard is talking about something
+709 a man is talking
+710 a man is a baseball
+711 a woman is talking about a recipe
+712 a girl is dancing on a
+713 a person is showing a bike
+714 a view of a ocean
+715 a person is folding paper
+716 a man is walking in the snow
+717 a man is singing
+718 a person is showing the features of a computer
+719 a man is walking through a building
+720 a man is driving a car
+721 soldiers are fighting in a war
+722 two people in a kitchen
+723 a man is talking about an animal
+724 a man is talking
+725 there is a woman is talking about a forest
+726 an animal is standing on the ground
+727 a person is explaining something
+728 a person is making a
+729 a man is walking through a hallway
+730 a man in a suit is talking to a man
+731 someone is showing some art
+732 a plane is flying
+733 a woman is standing
+734 a person is playing a guitar
+735 two women are talking
+736 a man and woman are sitting on a couch
+737 a man is playing a guitar
+738 a man is giving a speech
+739 a woman in a red shirt is talking to a man
+740 people are walking in a store
+741 a person is explaining something
+742 a man and woman are kissing
+743 a boy is singing
+744 a woman is talking about a product
+745 a group of animals are in a cage
+746 a man is walking
+747 a man is talking about a car
+748 a woman is putting on her face
+749 a boy is singing
+750 a man and a woman are talking
+751 a man with a guitar is singing
+752 a group of kids are dancing
+753 a person is a a
+754 a man and woman are kissing
+755 a slideshow of a woman
+756 a man is fixing a roof
+757 a man is sitting
+758 a woman is playing the piano
+759 a man is driving a truck
+760 a person is playing a video game
+761 a man in a white shirt sits in a chair and talks to a woman
+762 a picture of an animal
+763 a woman is showing how to prepare a dish
+764 a black and white cat is sitting on the bed
+765 a man is talking about a car
+766 a woman is talking
+767 a man is riding a motorcycle
+768 a man and a woman are talking to each other
+769 a slideshow of pictures of a man
+770 a person is playing a video game
+771 a woman is singing
+772 a woman is standing
+773 a man is talking
+774 an aerial view of a mountain is shown
+775 a man is singing on stage
+776 a girl is talking about a product
+777 a cartoon character is standing
+778 a video of a fish
+779 a man is talking
+780 a girl is doing gymnastics
+781 there is a man talking about a business
+782 a woman is talking
+783 a man is talking to a woman
+784 a man is talking
+785 a man and a woman are talking in a foreign language
+786 a cartoon character is dancing
+787 a man is singing
+788 a man and woman are talking
+789 a man is dancing
+790 a man is walking
+791 a doctor is doing a medical procedure
+792 a man is holding a gun
+793 a man is singing
+794 a woman is showing how to use a pink
+795 a man is working on a car
+796 a man is swimming
+797 cartoon characters are interacting
+798 a man is talking about a computer
+799 a man in a black suit stands near a bridge and talks
+800 a band is performing a song
+801 there is a man is talking with a man
+802 a woman is talking
+803 a person is showing a flower
+804 a man is working on a floor
+805 a man is talking
+806 a man is talking
+807 a woman is talking about her
+808 a woman is giving a lecture
+809 a man is talking about a vehicle
+810 a man is giving a lecture
+811 there is a bear running through the forest
+812 a woman is talking
+813 a band is performing a song
+814 a man in a suit and tie is talking
+815 a picture of a man in a suit
+816 there is a man talking about a product
+817 a man is singing
+818 a man is riding a motorcycle
+819 a man is singing
+820 a man is talking
+821 a person is walking through the sky
+822 a band is performing on stage
+823 a man is singing
+824 a person is showing how to do a with
+825 there is a man talking about a animal
+826 a woman is standing
+827 a girl is doing gymnastics
+828 a man and a woman are in a bed
+829 a man is doing home improvement
+830 a woman is cooking
+831 a woman is showing how to make a dish
+832 a boy is singing
+833 a video of a cheetah
+834 a woman in a dress is talking about her dress
+835 a woman is feeding a small animal
+836 a person is playing a video game
+837 a man is standing
+838 a man is standing
+839 a woman is riding a horse
+840 a person is playing a video game
+841 there is a man is talking about a fish
+842 a man is talking about a spider
+843 a man is talking about potatoes
+844 a man is talking
+845 a man is singing
+846 a whale is swimming in the water and a man is swimming
+847 a girl is singing
+848 a scene from a movie is playing
+849 a man is working on a car
+850 a man is talking about something
+851 cartoon characters are interacting
+852 a car is shown
+853 a man is putting on a roof
+854 there is a man talking about a dish
+855 a person is cooking
+856 a man is talking
+857 a video of a monster truck
+858 a man is playing guitar
+859 a minecraft character is standing
+860 a man is swimming in the water
+861 a man is singing
+862 a slideshow of an advertisement
+863 a man in a blue shirt is talking to a woman
+864 a man in a suit is talking about something
+865 a man is showing how to fix a car
+866 cartoon animals are singing
+867 a person is folding paper
+868 a large fish is sitting on the table
+869 a man is talking
+870 a man is singing on stage
+871 a group of people are on stage
+872 a woman is talking about a
+873 a man is talking
+874 a picture of a whale is shown
+875 a cartoon character is talking
+876 a woman is lying on the ground
+877 a man is singing
+878 a man rides a motorcycle on a motorcycle and rides a bike
+879 a man is talking
+880 a person is explaining something
+881 a man is playing a guitar
+882 a woman is opening a box
+883 a man and woman are talking
+884 a man is holding a gun
+885 a woman in a bikini is walking on a stage
+886 a group of people are dancing
+887 a whale is swimming in the water
+888 a man in a white apron is standing in a kitchen
+889 a man is cooking
+890 two girls are talking
+891 a group of children are shown
+892 a man in a suit is talking to a man
+893 a man is talking
+894 cartoon characters are interacting
+895 a person is cooking
+896 a dog is sitting on the ground
+897 a man is talking
+898 there is a man talking about a company
+899 a woman in a blue shirt is a man
+900 a man is driving a car
+901 a man is talking about food
+902 a man is standing
+903 someone is showing some science
+904 a man is talking about a car
+905 a man is playing a violin
+906 a man in a white shirt is talking to a woman
+907 a man is talking about a
+908 a man is singing
+909 there is a man talking about the earth
+910 a person is drawing
+911 a group of people are dancing
+912 a woman is singing
+913 a woman is playing the piano
+914 a person is playing with some toys
+915 cartoon characters are interacting
+916 a group of people are on the beach
+917 a girl is singing
+918 a person is preparing some food
+919 animals are playing in the wild
+920 a man is talking
+921 a person is preparing a dish in a bowl
+922 a man is talking about a
+923 a person is playing a video game
+924 people are jumping on a
+925 a cartoon character is talking
+926 a person is using a computer
+927 a man is standing
+928 there is a man talking about a newspaper
+929 a woman is talking about a
+930 a man is talking
+931 a man is standing on stage
+932 a band is performing a song
+933 a woman is talking
+934 a woman is talking about something in a room
+935 a person is pouring ingredients into a cup
+936 a woman is sitting on a couch
+937 a woman is standing
+938 a woman is showing how to make a dish
+939 a person is cooking
+940 a scene from a movie
+941 a group of people are dancing
+942 a picture of a man is shown
+943 a man is standing
+944 a person is explaining something
+945 a woman in a black dress is standing on a floor
+946 there is a picture of a water
+947 people are playing basketball
+948 a woman in a blue shirt is giving a lecture
+949 a man is standing
+950 a man is swimming in the water
+951 a man and woman are talking
+952 a baby is playing with a baby
+953 a man is giving a lecture
+954 a man is talking about a
+955 a view of a lake
+956 two men are sitting in a chair and talking
+957 soldiers are fighting in a war
+958 a group of people are dancing
+959 a man is talking about a
+960 there is a man is talking with a man
+961 a woman is holding a bag
+962 a man is dancing
+963 a man is talking on stage
+964 a group of people are singing and dancing
+965 a view of a mountain and a lake is shown
+966 a woman is playing a guitar
+967 a man is showing a car
+968 a man is running through the woods
+969 a person is using a phone
+970 a man is being interviewed
+971 a man is talking
+972 a man is talking about the ingredients
+973 cartoon characters are talking
+974 a man is talking about a engine
+975 a man is standing
+976 a cartoon character is singing
+977 a man is working on a machine
+978 a man is writing on a white board
+979 a man is holding a piece of food
+980 a video of fireworks
+981 a person is playing a video game
+982 a man is singing
+983 a man is talking about a
+984 a woman is singing a song
+985 a man is talking
+986 a picture of a group of women
+987 a woman is talking
+988 a man is talking about a church
+989 a man is standing
+990 a man in a suit is giving a speech
+991 a woman is standing
+992 pictures of a woman are shown
+993 a trailer for a video
+994 a cartoon character is standing in the air
+995 a person is showing some art
+996 a person is eating food
+997 a baby is swimming in the water
+998 a woman is talking about a car
+999 a man is singing
+1000 a man is talking about a house
+1001 a man is sitting in a car
+1002 a man in a tank top is shooting a gun
+1003 cartoon characters are talking
+1004 a woman is applying cream on her face
+1005 a person is playing basketball
+1006 a man is standing
+1007 a man is talking about a motorcycle
+1008 a whale is swimming in the water
+1009 a woman is showing how to cook
+1010 someone is showing some recipe
+1011 a woman is cooking
+1012 a man in a black shirt walks down a hallway with a woman
+1013 a group of animals are playing
+1014 a man is playing the violin
+1015 there is a man talking about a house
+1016 pictures of a woman are shown
+1017 there is a man is talking about a car
+1018 a man is singing
+1019 a person is swimming in a pool
+1020 a woman is talking to a man
+1021 a woman is walking on the stage
+1022 a person is playing a video game
+1023 a man in a white shirt is talking to a man in a white shirt
+1024 a man is talking
+1025 a man in a black shirt is eating a food
+1026 a picture of an animal
+1027 cartoon characters are interacting
+1028 a man is standing
+1029 a group of people are dancing and singing
+1030 a group of people are dancing
+1031 a man is riding a motorcycle on a motorcycle
+1032 a man is giving a speech
+1033 a man and woman are talking
+1034 a woman in a white shirt is sitting on a couch
+1035 a man is standing
+1036 cartoon characters are interacting
+1037 a man is talking about a
+1038 a plane flies through the air
+1039 a man is a car
+1040 there is a man is standing on the floor
+1041 a man is talking about a computer
+1042 a man is talking about a product
+1043 a group of people are dancing
+1044 a man is singing
+1045 a whale is swimming in the ocean
+1046 a woman is showing a stroller
+1047 a person is showing some food
+1048 a man is playing a guitar
+1049 a cartoon character is talking
+1050 a man is talking
+1051 a man is talking
+1052 a man is talking
+1053 a video of a desert
+1054 a man is talking
+1055 women are walking down a runway
+1056 a group of whales are swimming in the water
+1057 a man is singing
+1058 a man is walking down the street
+1059 a man is using a saw
+1060 a crowd of people at a concert
+1061 a man is talking about a snake
+1062 a man is talking about a car
+1063 a cartoon character is talking
+1064 a man is swimming in the water
+1065 a man is singing
+1066 a person is preparing a dish in the kitchen
+1067 a snake is sitting in the grass
+1068 a man in a white shirt is talking
+1069 a picture of a blue and a man is standing
+1070 there is a woman is talking about a
+1071 a man is talking
+1072 a plane is being displayed
+1073 a man is singing
+1074 a man and woman are kissing
+1075 a person is making a flower
+1076 a man is talking about a
+1077 a woman is cooking
+1078 cartoon characters are interacting
+1079 people are dancing
+1080 a man is singing
+1081 a person is making a
+1082 cartoon characters are dancing
+1083 a man and a woman are laying in a bed
+1084 a car is driving on a track
+1085 a car is shown
+1086 a person is showing how to use a phone
+1087 a person is showing a bottle of water
+1088 a man is talking
+1089 a woman is showing how to make a cake
+1090 there is a man swimming in the water
+1091 a man in a hat is talking to a camera
+1092 a woman is walking
+1093 a person is explaining something
+1094 a man is driving a car
+1095 a woman is talking
+1096 a man in a blue shirt is sitting in a chair
+1097 a woman is making nail art
+1098 a man is talking
+1099 there is a man talking about a room
+1100 a group of people are dancing
+1101 a man is working on a car
+1102 a woman is talking to a crowd
+1103 a person is playing with toys
+1104 a woman is talking
+1105 a cat is standing
+1106 a person is riding a bike
+1107 a man is giving a speech
+1108 a man in a suit is talking to a group of people
+1109 a band is performing on stage
+1110 a man is talking
+1111 a cartoon character is singing
+1112 a man is playing the violin
+1113 a man is standing
+1114 a man is showing how to use a program
+1115 a man is talking about the moon
+1116 a man in a blue shirt is riding on a motorcycle
+1117 a man and a woman are talking
+1118 a woman is talking
+1119 a man is standing
+1120 a person is explaining something
+1121 a woman is talking
+1122 a man is looking at a woman
+1123 a man is talking
+1124 a woman is dancing
+1125 two men are wrestling
+1126 a man in a black suit is talking about something
+1127 there are some people walking in the city
+1128 a man is showing how to use a wire
+1129 a group of people are walking around
+1130 a woman shows off her shoes
+1131 people are playing basketball
+1132 a man in a white shirt is standing in front of a building
+1133 a person is playing a video game
+1134 a woman is screaming
+1135 a girl is singing
+1136 a man in a white shirt is talking to a man
+1137 a group of animals are in a field
+1138 a man is talking about something in a room
+1139 a woman is dancing
+1140 a man in a hat is talking to another man
+1141 three girls are dancing
+1142 there is a man talking about a product
+1143 a man is talking on stage
+1144 a woman is talking
+1145 there is a man is talking with a man
+1146 a man is standing
+1147 a view of a mountain and a lake is shown
+1148 a woman is talking to a man
+1149 a video of a wild
+1150 a person is explaining something
+1151 a man in a blue jacket and a hat is sitting in a chair
+1152 a picture of a globe and a picture of a globe
+1153 a man is fixing a floor
+1154 there is a man is talking about a
+1155 a man in a suit is talking to a man
+1156 a boy is walking on the beach and the beach
+1157 a man in a blue shirt is talking about something
+1158 a woman is singing in a music video
+1159 a woman is talking
+1160 a person is preparing a dish
+1161 a woman is playing the violin
+1162 a man in a blue shirt is standing in a room
+1163 a person is looking at the camera and talking
+1164 there is a man is talking about a
+1165 a person is talking about a plant
+1166 there is a woman is talking about a
+1167 a man is singing
+1168 someone is showing a picture
+1169 an advertisement for a movie
+1170 a man is singing
+1171 a man is talking about a cartoon
+1172 a man is talking about a
+1173 cartoon characters are dancing
+1174 a man is talking
+1175 a woman is showing how to make a craft
+1176 there is a car moving on the road
+1177 a plane flies over a helicopter
+1178 a woman is smiling
+1179 a band is performing a song
+1180 a bird is flying in the forest
+1181 a man is standing
+1182 a couple is kissing
+1183 a man is talking about something in a room
+1184 a car is being displayed
+1185 a man is riding a motorcycle
+1186 a woman is talking into a microphone
+1187 a person is playing a video game
+1188 a person is riding a motorcycle
+1189 a woman is showing how to put on makeup
+1190 a picture of a cartoon
+1191 a man in a blue shirt is talking about a
+1192 a man is singing
+1193 a man in a black shirt is talking
+1194 a cartoon character is standing
+1195 a man is a motorcycle
+1196 a woman in a kitchen is preparing a dish
+1197 a man is talking about a video game
+1198 a cartoon character is talking
+1199 cartoon characters are talking
+1200 a man is holding a gun
+1201 a man is talking about a truck
+1202 a car is parked
+1203 a man is working on a machine
+1204 a cartoon is playing
+1205 there is a woman in red is posing on the floor
+1206 a man and woman are talking
+1207 a car drives down the road
+1208 a man is standing
+1209 a man in a suit is looking at something
+1210 a woman in a black shirt and black pants is standing in a store
+1211 a person is preparing food
+1212 a man is talking
+1213 a man speaks to a camera for a video segment
+1214 a person is playing with toys
+1215 a man is playing a guitar
+1216 a woman is singing
+1217 a man in a hospital bed is shown
+1218 a woman is showing how to make a skin
+1219 a woman is showing how to make a dish
+1220 a dog is sitting
+1221 a man is dancing
+1222 a man is standing
+1223 a man is swimming
+1224 cartoon characters are dancing
+1225 a man is standing
+1226 a man and a woman are kissing
+1227 a man and a woman are laying in a bed
+1228 a man is talking about the benefits of a
+1229 a man is talking about something
+1230 a man is talking about a
+1231 a man and woman are talking
+1232 a man is talking
+1233 a woman is talking
+1234 a man is talking about a
+1235 a man in a suit is taking out of the water
+1236 a woman is standing
+1237 a man is talking to a girl
+1238 a man is singing
+1239 a person is explaining something
+1240 a movie scene is playing
+1241 a man is singing
+1242 a woman is walking
+1243 a man is driving a car
+1244 a man in a shirt is standing in front of a camera
+1245 a man is talking about a computer
+1246 a person is making a
+1247 a cartoon character is talking
+1248 a person is cooking
+1249 a woman is talking about the news
+1250 two men are sitting in a car
+1251 a man is holding a toy
+1252 a man is working on a machine
+1253 a man is walking
+1254 a picture of a city is shown
+1255 a woman is talking
+1256 a woman walks down a hallway
+1257 a video about plants
+1258 a woman is standing in a sky
+1259 a person is playing a video game
+1260 a man in a black shirt is talking about something
+1261 a man is talking
+1262 a man is talking
+1263 a person is explaining something
+1264 a man is talking
+1265 a man in a car is driving in a car
+1266 there is a man is talking about a garden
+1267 a man is talking
+1268 a woman is a a
+1269 a person is playing a video game
+1270 a fish is swimming in the water
+1271 a man and woman are talking
+1272 a man is standing
+1273 a trailer for a movie
+1274 a picture of a beach is shown
+1275 a man and woman are kissing
+1276 minecraft characters are talking
+1277 an advertisement for a tv show is shown
+1278 a man is talking about a product
+1279 a child is playing in the beach
+1280 a woman is showing how to cook
+1281 an advertisement for a tv show
+1282 a man is sitting on a chair
+1283 a man is holding an octopus
+1284 a man in a suit is talking to a man
+1285 a man is looking at a man
+1286 cartoon characters are interacting
+1287 a man is driving a car
+1288 a woman is drawing a picture
+1289 a baseball game is being played
+1290 a man is walking
+1291 a person is preparing a dish
+1292 a man and a woman are on the beach
+1293 a person is using a device to take apart a
+1294 a man is talking about something
+1295 a man is swimming in the water
+1296 a man is driving a car
+1297 a man is showing how to install a floor
+1298 a man is cutting meat on a cutting board
+1299 a girl in a red shirt and a girl in a red shirt
+1300 a man is doing a work
+1301 water is flowing into the water
+1302 a man is showing how to make a snake
+1303 a person is making a paper airplane
+1304 a group of people are standing in front of a crowd
+1305 a man is playing in a park
+1306 people are shopping in a store
+1307 there is a man is riding a bike
+1308 a cat and a cat are in a box
+1309 a person is explaining something
+1310 a man is talking about a
+1311 someone is playing a game
+1312 a person is drawing
+1313 a person is cooking
+1314 a man is walking
+1315 a woman is sitting at a table and talking
+1316 a woman with blonde hair is talking on the street
+1317 people are walking down a stage
+1318 a man is singing
+1319 a man is walking through a cave
+1320 a young man in a yellow jacket and a yellow jacket is standing in a snow
+1321 a man is giving a lecture on stage
+1322 a whale is swimming in the water
+1323 a man is singing
+1324 a man and woman are having sex
+1325 a man is standing
+1326 a person is looking at a
+1327 a man in a blue shirt is talking in a room
+1328 a man is talking about a product and its parts
+1329 a man is cooking
+1330 a man in a suit is standing in front of a screen
+1331 a man is talking about a restaurant
+1332 a group of people are playing with a toy
+1333 a man is putting on his face
+1334 a woman with blonde hair is talking in a room
+1335 there is a man is talking with a man
+1336 a man is singing
+1337 a group of people are dancing
+1338 a cartoon character is talking
+1339 a video of a fire
+1340 a man is standing
+1341 a man is standing on the street
+1342 two men are wrestling
+1343 a cartoon of a man in the forest
+1344 there is a bird is sitting on the floor
+1345 there is a man swimming in the water
+1346 there is a man talking about a river
+1347 a man and woman are having a conversation
+1348 a group of animals are in the wild
+1349 a man and woman are posing
+1350 a girl is singing
+1351 there is a man is talking about a room
+1352 a woman is showing how to cook
+1353 a man is talking about a
+1354 a woman is talking on a bench
+1355 there is a woman talking about a spider
+1356 a blue and white bird is standing on the screen
+1357 a man is talking
+1358 a man is talking
+1359 a computer is being displayed
+1360 a man is singing
+1361 a woman is talking
+1362 there is a car moving on the road
+1363 a person is cooking
+1364 a car is shown
+1365 a lion is running
+1366 a person is playing with toys
+1367 someone is showing some art
+1368 a cartoon character is singing
+1369 people are playing football
+1370 a cartoon character is dancing
+1371 a man is driving a jeep
+1372 a man is talking to a woman
+1373 a still image of a car
+1374 a man is playing a guitar
+1375 a news reporter is talking to a man in a
+1376 a man is driving a car
+1377 a man is talking about a product
+1378 a person is playing a video game
+1379 a car is driving down the road
+1380 a woman is talking
+1381 a man is talking about a bike
+1382 a man and a woman are having a conversation
+1383 a man is standing
+1384 a man is talking
+1385 two men are talking
+1386 a dog is playing with a dog
+1387 there is a dog is sitting on the floor
+1388 a person is doing some craft work
+1389 a man is dancing
+1390 a man is talking about a computer screen
+1391 a man is talking
+1392 there is a boat traveling in the water
+1393 a dog is walking
+1394 a person is explaining something
+1395 a group of people are dancing
+1396 a plane is flying
+1397 a woman is playing with a toy
+1398 a man is talking
+1399 a woman is talking
+1400 a person is cooking
+1401 a cartoon cat is sitting on a table
+1402 a man is talking to a woman
+1403 a man is doing home improvement
+1404 a cartoon character is talking
+1405 a person is playing with a gun
+1406 there is a man is talking about a
+1407 a man is standing on a roof
+1408 a man walks down the street with a woman
+1409 a man is a stroller
+1410 someone is playing a game
+1411 a group of people are dancing
+1412 an animal is eating food
+1413 a man in a blue shirt is walking on a bicycle
+1414 a man and woman are kissing
+1415 a man is talking
+1416 a man is talking on stage
+1417 a woman is talking about a
+1418 a group of animals are in a field
+1419 a person is playing a video game
+1420 a man is driving a car
+1421 a man is singing
+1422 there is a woman is standing on the floor
+1423 there is a man is walking on the floor
+1424 a man rides a motorcycle
+1425 a crocodile is running
+1426 a woman is standing
+1427 a camera pans over the water and the ocean
+1428 there is a man walking on the floor
+1429 a woman is talking about a room
+1430 a video of a video
+1431 a woman in a pink shirt sits on a couch
+1432 a man is talking about food
+1433 a cartoon character is singing
+1434 two men are wrestling
+1435 a man is singing
+1436 a man is driving a car
+1437 a slideshow of a tiger and a tiger
+1438 a man in a black shirt is talking about a computer
+1439 a man is talking about a
+1440 a woman is showing a stroller
+1441 there is a man talking about a machine
+1442 a man and a woman are talking
+1443 a man and woman are talking
+1444 people are feeding a donkey
+1445 a man is looking at something
+1446 an animal is shown
+1447 a person is playing a video game
+1448 a man is talking about a website
+1449 a person is playing a video game
+1450 a man is talking about a car
+1451 a person is playing a video game
+1452 a man with a beard is talking to the camera
+1453 a man is talking to a man in a suit
+1454 a man is talking about a dish he is going to cook
+1455 a car is driving
+1456 a man is talking on stage
+1457 a man is singing
+1458 a woman is singing
+1459 a woman is swimming in a pool
+1460 a man is talking about a
+1461 a water is flowing in the water
+1462 a whale is swimming in the water
+1463 a man is dancing
+1464 a band is performing on stage
+1465 people are racing motorcycles
+1466 a man is singing
+1467 a person is cooking
+1468 a person is playing a video game
+1469 person is recording the big rocks on the mountain
+1470 a person is playing a video game
+1471 a woman is singing
+1472 a cartoon animal is standing on the ground
+1473 a man is sitting in a chair
+1474 a is a man talking about a cat
+1475 a man is talking about something
+1476 a group of people are in a
+1477 a person is cooking
+1478 a boat is sailing in the water
+1479 a woman in a pink shirt is talking in a studio
+1480 a scene from a movie
+1481 a person is playing a video game
+1482 a man is talking to a woman
+1483 a man and a woman are talking to each other
+1484 a man is singing
+1485 there is a dog walking on the grass
+1486 a man is dancing
+1487 a man is playing the guitar
+1488 a man in a suit is talking to a man
+1489 a man is singing
+1490 a man is talking
+1491 a car is being displayed
+1492 a boy is jumping on a trampoline
+1493 a man is riding a bike
+1494 a man is talking to a man
+1495 a man is walking
+1496 a man is cooking
+1497 people are dancing on stage
+1498 a man is standing
+1499 a man is talking about a piece of equipment
+1500 a child is playing with toys
+1501 a man in a blue shirt is writing on a white board
+1502 a man is talking
+1503 a person is preparing a dish in a kitchen
+1504 a person is opening a paper
+1505 a man is swimming in the water
+1506 a man is talking
+1507 a man is talking
+1508 someone is showing some art
+1509 a woman is talking to a child
+1510 a man is talking about the moon
+1511 there is a woman is talking about a forest
+1512 a girl is cutting a
+1513 a person is playing a video game
+1514 a child is playing with a toy
+1515 a man is talking to a woman
+1516 a man and a woman are on stage
+1517 there is a woman is standing on the floor
+1518 a boy is walking
+1519 a man is singing
+1520 a man and a woman are eating at a table
+1521 a man is talking about a
+1522 a woman is standing
+1523 there is a man is flying in the sky
+1524 people are playing soccer
+1525 a woman is talking
+1526 a man is talking
+1527 a woman is singing
+1528 a girl in a black shirt is talking in a room
+1529 a man is giving a speech
+1530 a band is performing a song
+1531 a man is talking about a truck
+1532 a person is explaining something
+1533 a man is doing home improvement
+1534 a man is talking to a woman
+1535 a person is showing how to make a dish
+1536 a man is on stage
+1537 there is a man talking about a study
+1538 a man is tying a knot
+1539 a man is talking about a
+1540 a woman is talking about a cake
+1541 there is a woman is talking about a
+1542 a man is playing with a
+1543 a person is walking in a container
+1544 a man in a black shirt is talking in a room
+1545 cartoon characters are interacting
+1546 a man in a suit is talking about something
+1547 a man in a suit walks down a street
+1548 a band is performing on stage
+1549 someone is showing a plane
+1550 a man is singing
+1551 a woman is showing how to prepare a dish
+1552 a woman is talking
+1553 a person is playing a video game
+1554 a woman is showing how to fix a car
+1555 a man rides a motorcycle down a street while a man rides a motorcycle
+1556 a man with a beard is talking about something
+1557 a man and woman are standing on stage
+1558 two men are performing on stage
+1559 a dog and a dog are in a cage
+1560 a person folds a paper airplane
+1561 a man is running on a field
+1562 a person is showing how to prepare a dish
+1563 a person is playing a video game
+1564 a man is working on a car
+1565 a man is showing a drone
+1566 a man with a beard is talking about a man
+1567 a man is riding a bike on the road
+1568 a person is playing a video game
+1569 there is a man is talking about a
+1570 someone is folding paper
+1571 a helicopter is flying
+1572 a man is talking about a spider in his hand
+1573 a man is talking to a man in a office
+1574 a picture of a airplane
+1575 cartoon characters are interacting
+1576 a woman is talking
+1577 two men are wrestling
+1578 a man and woman are kissing
+1579 a man is talking about food
+1580 a girl in a pink dress is walking around
+1581 a man in a black shirt is talking about something
+1582 a woman in a white dress is posing for the camera
+1583 a man is talking about a
+1584 a car is driving
+1585 a person is playing a video game
+1586 a girl is jumping on a trampoline
+1587 a man is giving a speech
+1588 a woman is talking about something in the kitchen
+1589 a fox is jumping on the snow and a man is swimming
+1590 a man and a woman are having a conversation
+1591 a cat is playing
+1592 a person is folding a paper airplane
+1593 a person is playing a video game
+1594 a man is singing on stage
+1595 a man is working on a car
+1596 a cat is walking around
+1597 a man is showing how to make a dish
+1598 there is a man is talking with a man
+1599 a man in a blue shirt is talking to a camera
+1600 a man is singing
+1601 a man is talking
+1602 a person is showing a phone
+1603 people are playing soccer
+1604 a person is solving a rubik s cube
+1605 a person is cooking food in a pan
+1606 a person is looking at a
+1607 a group of people are standing around
+1608 an advertisement for a tv show
+1609 there is a woman is talking about a house
+1610 a person is playing a video game
+1611 people are doing gymnastics
+1612 a man is talking
+1613 a man and a woman are in a bed
+1614 a man is talking
+1615 a woman is talking about the news
+1616 a man is walking through a bridge
+1617 a man is talking about a wood
+1618 a man is talking about a website
+1619 a man is talking
+1620 a person is feeding a animal
+1621 a woman is giving a speech
+1622 a man is talking about a dish
+1623 a man is singing
+1624 a man is talking about a
+1625 a man is talking
+1626 a man is working on a floor
+1627 there is a man is talking about a river
+1628 a man is talking about a girl
+1629 a man and a woman are having a conversation
+1630 a picture of a picture of a picture of a
+1631 two men are wrestling
+1632 an advertisement for a tv show
+1633 a person is playing a video game
+1634 a person is explaining something
+1635 a person is showing how to use a product
+1636 a man is playing soccer
+1637 an elephant is standing
+1638 a group of people are on a motorcycle
+1639 a man is walking
+1640 a scene from a movie
+1641 a man is talking about a phone
+1642 a girl is singing
+1643 a man is talking
+1644 a group of people are sitting on a couch
+1645 a man is talking about a
+1646 a man and woman are talking
+1647 a man and a woman are talking
+1648 a man is talking about a house
+1649 two men are wrestling
+1650 a woman is talking
+1651 a man in a blue shirt and shorts is riding a bicycle
+1652 a woman is talking
+1653 a man is talking about a motorcycle
+1654 a man is standing
+1655 a white dog is playing with a puppy
+1656 a person is drawing
+1657 a man and woman are kissing
+1658 a woman is talking
+1659 a person is playing a video game
+1660 a man in a suit is talking to a man
+1661 there is a woman is standing with a man
+1662 a woman is riding a horse
+1663 a black and white picture of a man in a white
+1664 a woman is talking
+1665 a man is fixing his hair
+1666 a person is explaining something
+1667 a woman is talking about a
+1668 a person is explaining something
+1669 a man is talking
+1670 a man is talking
+1671 a picture of a lake
+1672 a football game is being played
+1673 a person is preparing some food
+1674 a woman is standing
+1675 a person is showing a car
+1676 a picture of a field is shown
+1677 two animals are playing in a field
+1678 a person is explaining something
+1679 a person is talking about a recipe
+1680 a woman is talking
+1681 a man is standing
+1682 cartoon characters are interacting
+1683 people are dancing on the beach
+1684 a girl is singing
+1685 a man is singing into a microphone
+1686 a man in a black jacket is walking down a hallway
+1687 a man is walking
+1688 a person is drawing
+1689 a man in a black suit is talking to a man
+1690 a person is making a paper airplane
+1691 a group of men walk into a parking lot
+1692 a boat is in the water
+1693 a person is assembling a toy
+1694 there is a man is talking about a
+1695 there is a man talking about a machine
+1696 a group of people are sitting in a tiger
+1697 a man is riding a bike on a road
+1698 a man is talking to another man
+1699 two people are in a car
+1700 there is a man in black is standing on the floor
+1701 people are doing gymnastics
+1702 a man is talking
+1703 two men are wrestling
+1704 a man is talking
+1705 a man is playing with toys
+1706 a cartoon character is standing
+1707 a woman is talking
+1708 a person is playing a video game
+1709 a white car is being displayed
+1710 a man is talking about a machine
+1711 there is a woman is talking about a dish
+1712 a person is looking at a car
+1713 a man in a blue shirt is sitting in a house
+1714 a person is talking about a website
+1715 a man is standing
+1716 a group of people are sitting and talking
+1717 a person is walking through the water
+1718 a man is a gun
+1719 an advertisement for a company is shown
+1720 a man in a suit is talking to a man
+1721 a man and woman are kissing
+1722 a group of people are on stage
+1723 a woman is talking to a man
+1724 a man is talking about a
+1725 two men in a boat are on a boat
+1726 a man is talking about a
+1727 a group of people are standing on a stage
+1728 a person is playing a video game
+1729 a lion is eating
+1730 a girl is playing with a toy
+1731 an advertisement for a website is shown
+1732 a man is being interviewed
+1733 a man is talking
+1734 a man in a dark room
+1735 a man is walking
+1736 a man is talking about a computer
+1737 a man is talking about a motorcycle
+1738 a woman is standing
+1739 a man is talking to a woman
+1740 a man is singing
+1741 a woman is lying on the bed
+1742 a man is driving a car
+1743 a man is riding a motorcycle
+1744 there is a snake moving on the ground
+1745 a group of people are dancing
+1746 a man is singing
+1747 a woman is talking about the camera and talking
+1748 a person is explaining something
+1749 cartoon characters are singing
+1750 a man is showing how to prepare a dish
+1751 a woman is a stroller
+1752 a man is sitting in a chair and talking
+1753 a man is talking about a car
+1754 a woman is standing
+1755 a man is standing
+1756 a woman is talking about a bag
+1757 cartoon characters are talking
+1758 a man is dancing
+1759 a man is a woman is standing in a room
+1760 a group of people are singing
+1761 a man in a dark room
+1762 a group of people singing on stage
+1763 a man is talking
+1764 a man and a woman are talking
+1765 a man and woman are talking
+1766 a man is talking
+1767 a man is working on a car
+1768 a man in a black shirt and glasses is talking
+1769 a woman is singing
+1770 a man is holding a snake in a hand
+1771 there is a car moving on the road
+1772 a man is talking about something
+1773 a man is working on a car
+1774 a man is singing
+1775 a person is drawing
+1776 a group of people are singing on stage
+1777 a man is driving a car
+1778 a person is playing a video game
+1779 a man is singing
+1780 a group of people are dancing
+1781 a man is giving a lecture on stage
+1782 a person is playing a video game
+1783 a woman is talking
+1784 a woman is singing
+1785 a cartoon is talking
+1786 people are playing football
+1787 a woman is her hair
+1788 a group of children are playing
+1789 a woman is showing off her store
+1790 a man is a gun
+1791 a man and a woman are talking
+1792 a person is playing a video game
+1793 a cartoon character is flying
+1794 a man is talking
+1795 a man is talking about something
+1796 a woman is cooking
+1797 a car is shown
+1798 a man is talking
+1799 a group of people are dancing
+1800 a cartoon character is standing
+1801 someone is preparing food
+1802 a person is playing a video game
+1803 a man is talking
+1804 a person is playing a video game
+1805 a woman is standing
+1806 a cartoon character is talking
+1807 a man in a suit is talking to a man
+1808 a man is jumping on a trampoline
+1809 a slideshow of pictures of a woman
+1810 a man is eating
+1811 a woman is standing on a stage
+1812 a person is cooking
+1813 a man and woman are having sex
+1814 a trailer for a video
+1815 a man is flying
+1816 a person is playing
+1817 there is a man talking about a snake
+1818 a man and woman are kissing
+1819 a bear and a dog are walking in the forest
+1820 a bird is sitting on a table and a green
+1821 a person is explaining something
+1822 a man is holding a gun
+1823 a man is working on a car
+1824 a news report about a mall
+1825 a man and woman are talking
+1826 a man in a hat is talking to the camera
+1827 a man in a suit is walking on the stage
+1828 someone is showing some art
+1829 a man is standing
+1830 there is a man talking about a company
+1831 a man is walking
+1832 a man is driving a car
+1833 a man and woman are kissing
+1834 a woman in a black shirt is sitting in a chair
+1835 a woman is singing
+1836 a person is playing a video game
+1837 a person is explaining something
+1838 a woman is standing
+1839 a cartoon character is talking
+1840 a person is explaining something
+1841 a man is talking
+1842 a basketball player makes a slam dunk
+1843 a man is being interviewed
+1844 a person is explaining something
+1845 a man in a kitchen is preparing a dish
+1846 a man is talking about a car
+1847 a group of people are dancing
+1848 a man is talking
+1849 a person is playing a video game
+1850 a man is talking
+1851 a woman is talking
+1852 a woman is singing
+1853 a boy is singing
+1854 there is a man in red is riding a bike
+1855 a person is playing a video game
+1856 two men are sitting and talking
+1857 a person is talking about the camera
+1858 two cartoon characters are talking
+1859 a man in a black shirt is working on a car
+1860 a cat is sitting on a couch
+1861 a man in a black suit sits in a chair and talks
+1862 a woman is talking
+1863 a man is talking about a truck
+1864 a person is recording their computer
+1865 a man is singing
+1866 a woman is standing
+1867 a man is showing how to use a gun
+1868 water is coming out of the water
+1869 two video game characters are fighting
+1870 a woman is talking
+1871 a person is cooking
+1872 a man in a lab coat is talking to a man
+1873 a man is talking about a phone
+1874 a man in a black jacket is standing near a field
+1875 two men are standing in front of a camera
+1876 a girl in a pink dress is sitting on a bed
+1877 a man is driving a car
+1878 a person is playing with a toy
+1879 two people are in a store
+1880 a man is dancing
+1881 a slideshow of a man
+1882 a man is playing a guitar
+1883 a man is talking
+1884 a man is standing on stage
+1885 a view of a bridge and a lake
+1886 a man is talking about a boat
+1887 a group of people are standing outside
+1888 a woman is talking
+1889 a man is talking about the shop of a shop
+1890 a person is explaining something
+1891 there are some people enjoying in the water
+1892 a man is standing
+1893 a group of people are on the ground
+1894 a group of people are shopping in a store
+1895 a woman is talking
+1896 a man in a snow jacket and a man in the snow
+1897 a man and woman are on the beach
+1898 a man in a black shirt is eating a drink
+1899 a man is dancing on the beach
+1900 a man and a woman in a kitchen
+1901 two cartoon characters are talking
+1902 a trailer for a movie
+1903 people are playing basketball
+1904 there is a woman talking about a city
+1905 a woman is talking to a man
+1906 a man is talking
+1907 a woman is talking to a man
+1908 a man and woman are in bed
+1909 two girls are swimming in a pool
+1910 a man is fixing a door
+1911 a man is throwing a table
+1912 a man is talking
+1913 there is a man talking about a product
+1914 a car is shown
+1915 someone is showing some food
+1916 a man is talking about a
+1917 a man is talking about a car
+1918 a bus is driving down the road
+1919 a man wearing a white jacket and a jacket is standing on a
+1920 a man and a woman are on a couch
+1921 a person is showing a picture
+1922 a man is talking
+1923 a woman is talking
+1924 a man is talking
+1925 a person is cooking
+1926 a person is recording the big boat in the water
+1927 a man is riding a motorcycle on a track
+1928 a man is a ball
+1929 a girl is dancing
+1930 a woman is swimming in the water
+1931 a man is talking
+1932 a man is talking
+1933 a man is a motorcycle
+1934 a man and woman are talking
+1935 an elephant is standing
+1936 a man is talking
+1937 a person is playing a video game
+1938 a cartoon character is talking
+1939 a woman is showing how to make a potato
+1940 a man is holding a gun
+1941 a cartoon character is talking
+1942 a man is talking about a man and a woman
+1943 a view of a train is shown
+1944 a woman is applying makeup
+1945 a group of people are in a classroom
+1946 a slideshow of a movie
+1947 a man is talking
+1948 a man is talking about a
+1949 a car is parked
+1950 a man in a blue shirt is standing in front of a crowd
+1951 a man is talking about a car
+1952 a woman in a kitchen
+1953 an advertisement for a video game
+1954 a woman is singing
+1955 a man in a blue shirt is standing in a kitchen
+1956 a woman in a red shirt stands in front of a building
+1957 someone is showing some art
+1958 a man is talking to a group of students
+1959 a horse is running
+1960 a group of people are dancing
+1961 a cartoon character is walking
+1962 a man is showing how to tie a knot
+1963 a dog is walking
+1964 a woman is showing a bag
+1965 a man in a blue shirt is standing in front of a computer
+1966 a minecraft character is carrying a sword
+1967 two men are talking
+1968 a cartoon character is driving
+1969 a woman is talking
+1970 an animation of the earth
+1971 a man is using a device
+1972 a man is singing
+1973 a person is playing a video game
+1974 a man is talking about a car
+1975 a man is putting on a phone
+1976 a man is singing
+1977 a person is explaining something
+1978 a man is talking about a bear
+1979 a cartoon character is dancing
+1980 a man is singing
+1981 a view of a city is being shown
+1982 a person is talking about a
+1983 a man is talking
+1984 a man is showing off his body
+1985 a woman is talking
+1986 a man is talking about a product
+1987 a man is cooking
+1988 a man is swimming in a pool
+1989 a man is driving a car
+1990 a woman is interviewing a woman
+1991 a woman is cooking
+1992 kids are singing and dancing
+1993 a cartoon character is running
+1994 a truck is driving on the road
+1995 there is a man is making a dish with a
+1996 a man in a suit is talking to a camera
+1997 a group of people are talking
+1998 a woman is showing how to make a project
+1999 someone is playing a video game
+2000 a group of people are dancing
+2001 a man is being interviewed
+2002 a man is dancing
+2003 a man is talking
+2004 a person is swimming in a pool
+2005 someone is playing a game
+2006 a group of people are talking
+2007 a man is showing how to fix a car
+2008 a woman is talking about a stroller
+2009 a man is sitting on a bed
+2010 a woman is showing her shoes and she is walking
+2011 a man is talking
+2012 a woman shows off her shoes
+2013 a man is dancing
+2014 a man is talking about something
+2015 a man is talking
+2016 a man is walking
+2017 a man is riding a motorcycle
+2018 a man is talking
+2019 a man in a pink shirt and a woman in a room
+2020 a man in a suit is standing on a street
+2021 a man is walking
+2022 there is a boat traveling on the water
+2023 soldiers are in a war
+2024 a music video of a woman singing a song
+2025 a man pours liquid into a cup
+2026 a plane is flying
+2027 a is a man talking about a train
+2028 pictures of a song are shown
+2029 an advertisement for a tv show
+2030 a man is talking about a cat
+2031 a man is walking through a tunnel
+2032 a man and a woman are in a room
+2033 a man is walking through the snow
+2034 a person is playing with toys
+2035 a man is talking
+2036 a man is fixing a roof
+2037 a cartoon of a man talking about a
+2038 a person is doing some arts and crafts
+2039 a man is talking to a woman
+2040 a cartoon character is talking
+2041 a woman is showing how to use a art
+2042 a woman is taking a selfie
+2043 cartoon characters are singing
+2044 a man is standing
+2045 two women are talking
+2046 a woman is talking about a
+2047 a man is cutting potatoes
+2048 a man is showing how to make a dish
+2049 a woman is talking
+2050 a man is talking
+2051 a man is talking
+2052 a man is riding a bike
+2053 a person is playing with a toy
+2054 animals are running in a field
+2055 there is a man talking about a graph
+2056 a plane is flying
+2057 someone is recording the beautiful mountains and mountains
+2058 a person is drawing
+2059 a woman is showing how to make a
+2060 a man is running in a war
+2061 a man is swimming in the water
+2062 a man is standing in front of a church
+2063 a man and a woman are in bed
+2064 a small puppy is walking around in a cage
+2065 a woman is standing
+2066 a man is riding a bike
+2067 a band is performing on stage
+2068 a child is playing on the beach
+2069 a person is playing with a animal
+2070 a woman is combing her hair
+2071 a person is playing a video game
+2072 a woman is doing her hair
+2073 a logo is shown
+2074 a person is putting some food in a small
+2075 a cartoon character is dancing
+2076 a man is talking
+2077 two teams are playing rugby in a ground
+2078 a person is cooking
+2079 a person is playing a video game
+2080 an advertisement for a company is being shown
+2081 a person is playing a video game
+2082 a picture of a movie is shown
+2083 a woman is laying down
+2084 a cartoon character is talking
+2085 a man in a suit is talking to the camera
+2086 a man is singing
+2087 a whale is swimming
+2088 a man in a white shirt is talking to a woman
+2089 a man in a hat is talking to a woman
+2090 there is a man talking about a product
+2091 spongebob and patrick are talking
+2092 a woman is showing how to cook
+2093 there is a man swimming in the sea
+2094 a person is showing how to prepare a dish
+2095 there is a man talking about a product
+2096 cartoon characters are interacting
+2097 a man in a store
+2098 a man is swimming
+2099 a man is talking about a car
+2100 a man is talking
+2101 a picture of a black
+2102 a woman in a red dress is talking to an audience
+2103 a group of people are standing in a large of people
+2104 a whale is swimming in the water
+2105 a cartoon character is talking to another cartoon
+2106 there is a woman is playing with a mouse
+2107 a man talks about a bar
+2108 a car is shown
+2109 a girl is jumping in a pool
+2110 a man is talking to a man in a suit
+2111 a person is playing a video game
+2112 a beautiful view of a lake and a lake is shown
+2113 a man is giving a speech
+2114 there is a man is talking about a plant
+2115 a woman is walking
+2116 a band is performing a song
+2117 a woman is talking about a car
+2118 a dog is sleeping
+2119 a man and a woman are talking
+2120 a man is talking about a car
+2121 a man is talking on stage
+2122 a man is talking about a car
+2123 there is a animal is eating food
+2124 a man is singing
+2125 a man is talking
+2126 a man is walking
+2127 a person is playing a video game
+2128 people are playing soccer
+2129 a man is talking about something
+2130 a group of people are walking around
+2131 a man is playing a guitar
+2132 a person is holding a small animal in his hand
+2133 a man in a suit is talking to the camera
+2134 a man is standing
+2135 a man is fixing a roof
+2136 a woman is sitting in a chair and talking
+2137 a woman in a white shirt is talking to a man
+2138 a boy does a backflip on a trampoline
+2139 a man is putting on makeup
+2140 a woman with blonde hair is standing in front of a window
+2141 a man is talking about a computer
+2142 a cat is sitting on a bed
+2143 a woman is washing a bottle
+2144 people are playing basketball
+2145 a woman is talking
+2146 a woman is pouring a bottle
+2147 a picture of a man is being shown
+2148 a person is explaining something
+2149 a man is talking
+2150 a person is preparing some food
+2151 a horse is playing with a horse
+2152 a person is drawing
+2153 a woman in a kitchen is preparing a dish
+2154 cartoon characters are interacting
+2155 someone is playing a game
+2156 a person is playing with a toy
+2157 a is a man talking about a car
+2158 a man is standing
+2159 a woman is showing how to use a sewing
+2160 a man is talking
+2161 a person is cooking
+2162 a man is in a bathtub in a bathtub
+2163 a person is cooking
+2164 a man is talking
+2165 there is a man talking about a planet
+2166 a plane is flying through the sky
+2167 a view of a mountain is shown
+2168 a man and a woman are lying in the bed
+2169 people are dancing on stage
+2170 someone is playing a game
+2171 a person is walking through a tunnel
+2172 a person is explaining something
+2173 someone is playing a game
+2174 a man in a hat is standing in a forest
+2175 a person is explaining about a recipe
+2176 a group of cats are shown
+2177 a bird is flying
+2178 someone is showing some food
+2179 a person is drawing
+2180 a man in a blue shirt and a woman in a kitchen
+2181 a woman in a black shirt is in a room
+2182 a woman is talking
+2183 a car is shown
+2184 a man is talking about dna
+2185 a woman is talking about a baby stroller
+2186 cartoon characters are interacting
+2187 someone is showing some recipe
+2188 there is a man talking about the sea
+2189 a woman and a woman are talking
+2190 a lion is eating
+2191 there is a man in blue is walking on the ground
+2192 a man is talking
+2193 a man is singing
+2194 a person is playing a video game
+2195 a person is cooking
+2196 a man is walking
+2197 a man is riding a motorcycle
+2198 someone is playing with cubes
+2199 a woman is showing how to prepare a dish
+2200 there is a beautiful town with a city
+2201 a man is looking at a horse
+2202 a cartoon character is talking
+2203 a man rides a motorcycle down the road
+2204 a man is talking
+2205 a man is talking about space
+2206 a woman is standing in front of a camera
+2207 a scenic view of a river and a river
+2208 a person is cooking
+2209 a man is talking
+2210 someone is showing some art
+2211 a man is walking
+2212 a man is driving a car
+2213 a man in a suit is talking to an audience
+2214 a man is standing
+2215 there is a man talking about a product
+2216 there is a man talking about a product
+2217 a man is singing
+2218 a person is explaining something
+2219 a man and a woman are kissing
+2220 a woman is showing a stroller
+2221 a man is riding a horse
+2222 a woman is talking to a man
+2223 a building is being filmed
+2224 a person is explaining something
+2225 a person is explaining something
+2226 a person is talking about a product
+2227 there is a beautiful beach with beautiful water
+2228 a dog is walking around a field
+2229 a person is showing a
+2230 an advertisement for a tv show
+2231 a man is holding a baby
+2232 there is a kid playing with a ball
+2233 a man is standing outside
+2234 a woman is talking to a man
+2235 a man is showing how to use a gun
+2236 a cartoon character is talking
+2237 a woman is talking
+2238 a person is using a computer
+2239 a man is talking to another man
+2240 a group of people are dancing on a beach
+2241 a group of children are singing
+2242 a man is talking
+2243 a person is showing how to cook a dish
+2244 a man is doing home improvement
+2245 a woman is standing
+2246 a man and woman are kissing
+2247 a man and woman are shown
+2248 there is a man talking about the earth
+2249 cartoon characters are interacting
+2250 a man is standing on a stage
+2251 people are dancing on stage
+2252 three women are dancing
+2253 there is a man is talking about a
+2254 a person is recording their computer screen
+2255 a woman is talking
+2256 a man is riding a bike on a road
+2257 there is a man is talking about a
+2258 a woman is talking to a man
+2259 a man is singing
+2260 a person is playing a video game
+2261 a person is a cake
+2262 a woman is showing how to cook
+2263 a woman is talking
+2264 a person is doing a tutorial on
+2265 a man is giving a lecture
+2266 a man is talking
+2267 a man is sitting on a bed
+2268 a man is walking
+2269 a band is performing a song
+2270 a man is talking
+2271 a man is standing
+2272 a woman is talking about a recipe
+2273 a group of people are on stage
+2274 a person is explaining something
+2275 a man in a white shirt and a woman are in the water
+2276 a cartoon character is looking at something
+2277 a man is talking about a car
+2278 a person is showing a car
+2279 a man is standing
+2280 a group of people are dancing
+2281 a man is standing in the sky
+2282 a man is talking about a video game
+2283 a man is shooting a gun
+2284 a picture of a blue screen with text on the screen
+2285 a man in a kitchen is preparing some food
+2286 a person is drawing a flower on a table
+2287 a woman is singing
+2288 there is a man walking on the snow
+2289 a man is talking
+2290 a car is driving down the road
+2291 a man is installing flooring
+2292 a man is giving a speech
+2293 two people are playing tennis
+2294 there is a man talking about a machine
+2295 a woman is playing a video game
+2296 a woman is walking through a door
+2297 a man is standing in front of a screen
+2298 a man in a suit talks about the news
+2299 black and white photos of people
+2300 spongebob and squidward are talking
+2301 a man is holding a microphone
+2302 a man is standing in the kitchen
+2303 a man in a black shirt is doing some thing
+2304 a woman is standing
+2305 a scene from a movie
+2306 a woman is talking
+2307 a child is playing with a toy
+2308 a person is playing with a toy
+2309 a man is talking about a in a stage
+2310 a person is opening a package
+2311 a man is standing
+2312 a man in a black shirt is talking about something
+2313 an aerial view of a city
+2314 a man is driving
+2315 a woman is standing
+2316 a man is singing
+2317 a cartoon character is holding a bag
+2318 a person is cutting a piece of bread
+2319 a man in a suit is talking about something
+2320 a woman is singing
+2321 a man is singing
+2322 a man is talking about a car
+2323 a cartoon character is talking to a girl
+2324 a person is writing
+2325 a man is talking
+2326 a woman walks down the stairs
+2327 a man is talking to a woman
+2328 a man in a black shirt and black shorts is jumping on a
+2329 a man in a hat is sitting in a car
+2330 a man is singing
+2331 there is a beautiful mountain with mountains
+2332 a man is talking about a
+2333 a man is talking
+2334 a cheetah is in the ground
+2335 a group of people are dancing
+2336 a man is a woman are dancing
+2337 a girl is singing
+2338 the interior of a car are shown
+2339 a person is getting a tattoo
+2340 a whale is swimming in the water
+2341 there is a man swimming in the water
+2342 a man and a woman are kissing
+2343 a woman is talking
+2344 a boy is singing
+2345 a woman is talking
+2346 a man is talking
+2347 there is a man talking about a room
+2348 a man is talking
+2349 a video of a person playing
+2350 a picture of a woman
+2351 a man is talking
+2352 a man is standing in a room
+2353 a woman in a white dress
+2354 a cartoon character is dancing
+2355 there is a man talking about a science
+2356 a woman is singing
+2357 there is a man is talking about a boat
+2358 a person is recording a video
+2359 a man is riding a motorcycle
+2360 a video of a house
+2361 a man is talking
+2362 there is a man is making a dish
+2363 a man is talking
+2364 a woman is making a dish
+2365 a person is holding a bottle with a bottle
+2366 a man is talking
+2367 a whale is swimming in the water
+2368 there is a man talking about a product
+2369 a woman is standing
+2370 a man and woman are dancing on stage
+2371 there is a ship traveling on the sea
+2372 a person is looking at a computer
+2373 a woman is riding a horse
+2374 a man is talking on stage
+2375 a woman is talking
+2376 a group of men and a woman are talking
+2377 a person is filming a boat
+2378 a woman is talking
+2379 a group of people are walking down a street
+2380 a man is singing
+2381 a man is laying down
+2382 a man is a woman in a bath
+2383 a man is riding a motorcycle
+2384 there is a man is talking about a building
+2385 a man is standing
+2386 a group of people are dancing and singing
+2387 a cartoon character is running
+2388 a person is using a computer
+2389 a man is standing
+2390 a man is working on a floor
+2391 a car is driving down the road
+2392 a man is talking
+2393 a person is cooking
+2394 a person is flying
+2395 a man is playing a guitar
+2396 a woman is talking
+2397 a man is looking at a crocodile
+2398 a person is playing a video game
+2399 a video of a man getting a woman
+2400 a woman pours some liquid into a bowl
+2401 there is a beautiful mountain with beautiful mountains
+2402 a person is playing a video game
+2403 a man is dancing
+2404 a man is talking about a
+2405 a cartoon character is talking
+2406 a person is a dog
+2407 a man is walking around a room
+2408 a man is applying makeup to another man s face
+2409 a woman is talking
+2410 a woman is talking
+2411 a woman in a black and white shirt is standing by a lion
+2412 a man is being interviewed
+2413 a slideshow of pictures of a man
+2414 a man is running
+2415 a person is explaining something
+2416 people are on stage
+2417 a man is talking
+2418 a man is talking about a boat
+2419 a group of people are dancing
+2420 a man is singing
+2421 a man and woman are playing in the water
+2422 a picture of a man and a woman
+2423 a man in a suit and tie is talking
+2424 a man is talking about a
+2425 a news reporter is talking about the news
+2426 a person is explaining something
+2427 a man and woman are talking
+2428 a video about a desert
+2429 a man is swimming
+2430 a group of people are dancing
+2431 there is a man talking about a car
+2432 a man is holding a gun
+2433 a woman is talking
+2434 a woman is cleaning a horse
+2435 a woman is sitting in a room and talking
+2436 a man is working on a car
+2437 a man is talking to a man
+2438 a man is standing in the ground
+2439 a man is talking
+2440 a man is singing
+2441 a man is walking
+2442 a football game is being played
+2443 a person is playing a video game
+2444 a man is talking about a bicycle
+2445 a man is doing home improvement
+2446 a man is playing a guitar
+2447 a man is giving a speech
+2448 a woman is dancing
+2449 a person is pouring a bottle
+2450 a cartoon character is dancing
+2451 a band is performing on stage
+2452 a group of people are shooting at each other
+2453 a band is playing on stage
+2454 a woman is showing how to make a
+2455 a group of soldiers are walking
+2456 a girl is singing
+2457 a man is giving a speech
+2458 a man and woman are drinking
+2459 a person is cutting up vegetables on a cutting board
+2460 a snow is in the snow
+2461 a man is talking
+2462 a woman in a black shirt is eating food
+2463 a man is talking
+2464 a man and a woman are talking
+2465 a man is singing
+2466 a man is talking about a tv show
+2467 a woman is talking
+2468 a bus is driving down the road
+2469 a man is talking about a planet
+2470 a man is fighting
+2471 a man is talking on stage
+2472 a view of a waterfall
+2473 a group of people are dancing
+2474 a man is talking
+2475 a girl is singing
+2476 a man is talking
+2477 a man is talking about a map
+2478 pictures of a woman
+2479 a man in a blue shirt is walking around in a garden
+2480 a man walks down a hallway
+2481 a person is playing a video game
+2482 a person is cooking
+2483 a man is talking about a car
+2484 a person is cooking
+2485 a man is talking about a guitar
+2486 a man is running
+2487 a man is talking
+2488 a man is swimming in the water
+2489 someone is playing a game
+2490 a young woman in a white shirt is her hair
+2491 a person is cooking
+2492 an animation of a man and a woman
+2493 a cartoon character is standing
+2494 a horse is eating some food in a pen
+2495 a video of a
+2496 a slideshow of pictures of a mountain
+2497 two cartoon characters are talking
+2498 a woman is modeling a bra
+2499 a old man in black color dress wearing cloth sitting speaking on topic displaying on screen
+2500 a man in a blue shirt is talking to a man
+2501 a person is cooking a dish in a pot
+2502 a man in a black shirt and black shorts is doing a exercise
+2503 a person is showing a electronic
+2504 a man is sitting on a bed
+2505 a girl is doing gymnastics
+2506 a man and woman are kissing
+2507 a person is playing a video game
+2508 a video of a fireworks show
+2509 two girls are eating
+2510 a man is talking
+2511 a man talks about a city
+2512 a person is folding paper
+2513 a woman in a white dress is dancing in a room
+2514 a man and a woman are having a conversation
+2515 a man is showing a computer
+2516 people are watching a fireworks show
+2517 a person is playing a video game
+2518 a man and woman are talking
+2519 a man is talking about the water
+2520 a white and white bird is sitting in a room
+2521 a man and a woman are cooking in a kitchen
+2522 a man is playing the piano
+2523 a woman is cooking
+2524 a man is talking on the phone
+2525 a band is performing on stage
+2526 a woman in a red hat is sitting on a chair
+2527 a man is driving a car
+2528 cartoon characters are interacting
+2529 there is a man talking about a new
+2530 a man is talking about a
+2531 a man is working on a car
+2532 a cartoon character is looking at a mirror
+2533 a man is talking on stage
+2534 there is a man talking about a forest
+2535 a person is cooking
+2536 a man is singing
+2537 a man is singing
+2538 there is a woman in red is running on the track
+2539 a boy is standing
+2540 there is a woman talking about a product
+2541 a horse is standing
+2542 there is a man is running with a ball
+2543 a man and a woman are talking
+2544 a plane is flying
+2545 a group of people are walking
+2546 a man is dancing
+2547 a person is looking at the fridge and talking about it
+2548 a man is talking about a
+2549 a man is standing
+2550 a woman is dancing
+2551 a man is riding a motorcycle
+2552 a man is talking about something
+2553 a man is cooking
+2554 a man is talking about a room
+2555 a man is talking to another man
+2556 a girl is singing
+2557 a man is looking at the door of a house
+2558 a man is talking about food
+2559 a man is talking
+2560 a man is looking at a door
+2561 a woman in a pink shirt is sitting on a couch
+2562 a man in a blue shirt is talking about a truck
+2563 a plane is flying
+2564 a man is talking
+2565 a man is talking
+2566 a video of a city is shown
+2567 a man is singing
+2568 a cartoon of a man getting ready to enter a dog
+2569 a man is standing
+2570 a man is talking
+2571 a man in a blue shirt is swimming in the water
+2572 cartoon characters are singing
+2573 fireworks are exploding in the sky
+2574 a person is drawing
+2575 a person is cooking
+2576 a man is standing
+2577 a man in a black suit is talking to a crowd
+2578 a boy and girl are talking
+2579 a man and a woman are kissing
+2580 a man is talking
+2581 a man is cleaning his face
+2582 a group of soldiers are fighting
+2583 a dog is eating food
+2584 a man is talking about a
+2585 a man is standing
+2586 a person is drawing
+2587 a man is playing the drums
+2588 a man and a woman are on the beach
+2589 a man is working on a computer
+2590 there is a man is talking about a
+2591 a person is slicing a potato
+2592 a group of girls are dancing
+2593 a man is dancing
+2594 a man is running
+2595 someone is showing some art
+2596 a boy is playing with a
+2597 a woman is talking about a baby
+2598 a man is giving a lecture
+2599 a person is showing a recipe
+2600 a cartoon is looking at the camera
+2601 a man is driving a car
+2602 a video of a phone
+2603 there is a cat is eating from a box
+2604 a man is dancing
+2605 a man is talking
+2606 a man in a black shirt and glasses is talking
+2607 a person is writing on a white board
+2608 a man is standing on the beach
+2609 a man is talking to a man
+2610 a man and a woman are talking
+2611 a car is shown
+2612 a person is explaining something
+2613 a person is walking on a river in a river
+2614 a woman is walking
+2615 a man is driving a car
+2616 a man is doing home improvement
+2617 a man is running
+2618 a man is applying makeup to his face
+2619 a person is playing a video game
+2620 a man is talking about a computer screen
+2621 a man is playing a violin
+2622 a man is talking about a
+2623 a man is talking about snakes
+2624 someone is playing a game
+2625 there is a man swimming in the water
+2626 a group of soldiers are fighting
+2627 a man is looking at something
+2628 a man is standing
+2629 a woman in a blue shirt is talking to a woman
+2630 a man is playing guitar
+2631 a man and woman are talking
+2632 a group of people are singing
+2633 a man in a black shirt and black sunglasses is walking on a mountain
+2634 there is a plant in the forest
+2635 a group of wolves are running
+2636 a person is recording their computer screen
+2637 a man is talking about a car
+2638 a band is playing a song
+2639 a man is doing a backflip
+2640 a man is playing a guitar
+2641 a man in a blue shirt is riding a bicycle
+2642 a man is singing
+2643 a man is talking
+2644 a man is standing
+2645 a man in a blue jacket is riding a bike
+2646 a video of a dog
+2647 a person is playing a video game
+2648 a person is playing a video game
+2649 a woman is eating food
+2650 a man is talking about a car
+2651 a man and a woman are having a conversation
+2652 there is a woman talking about a plant
+2653 an advertisement for a company is shown
+2654 a man is talking about something about the screen
+2655 a plane is flying on the sky
+2656 a woman is standing
+2657 a woman is talking
+2658 a car drives down the road
+2659 a man is talking
+2660 a man is standing
+2661 a man in a white shirt is looking at the camera
+2662 a person is cooking
+2663 a woman is talking
+2664 there is a man talking about a product
+2665 a fish is swimming in the water
+2666 a man is standing
+2667 a person is explaining how to use a program
+2668 a man in a black jacket is standing
+2669 a man is standing
+2670 a woman is being interviewed
+2671 a man is running through the forest
+2672 a man is showing how to make a basket
+2673 a man is riding a bike
+2674 a horse is in a pen and a woman is talking
+2675 two men are talking
+2676 a person is drawing
+2677 a woman is cutting a
+2678 a man is showing how to use a stroller
+2679 two people are dancing
+2680 a woman is smiling
+2681 a man and a woman are having a conversation
+2682 a man in a black shirt is doing some tricks on a floor
+2683 a man and woman are talking
+2684 there is a man is riding a bike
+2685 a man talks about the ingredients for a recipe
+2686 a man in a blue shirt is cooking in a kitchen
+2687 cartoon characters are dancing
+2688 a cartoon character is singing
+2689 a man is walking
+2690 a man is singing on stage
+2691 a man is standing
+2692 a slideshow of pictures of a girl
+2693 a man in a black shirt is talking to another man in a restaurant
+2694 a man is talking about a football game
+2695 soldiers are fighting in a war
+2696 a man is singing
+2697 there is a woman talking about a plant
+2698 a man is performing on stage
+2699 a woman in a kitchen is talking
+2700 a person pours some liquid into a cup
+2701 a cartoon character is getting ready to go
+2702 someone is showing some food
+2703 a group of animals are shown
+2704 a cartoon is playing
+2705 a group of people are dancing
+2706 a woman in a red dress is walking on a stage
+2707 a person is cooking
+2708 a woman in a black shirt is talking about something
+2709 a person is playing a video game
+2710 cartoon characters are interacting
+2711 a man is talking to another man
+2712 a person is playing a video game
+2713 a person pours water into a plastic container
+2714 a woman is standing
+2715 a man in a black shirt is talking to an audience
+2716 two men are talking on a talk show
+2717 a woman is singing
+2718 a woman is singing
+2719 a man in a suit is giving a speech
+2720 a woman is talking
+2721 an advertisement for a company is being shown
+2722 a man is talking
+2723 a man is singing
+2724 there is a man swimming in the water
+2725 a man is talking about something
+2726 a man is walking on the floor
+2727 a man is talking about a car
+2728 a boy is singing
+2729 a man is talking to a man
+2730 a man in a white shirt is talking into a microphone
+2731 a man is talking
+2732 a woman is talking
+2733 a woman in a white shirt is talking to a woman
+2734 a man is standing
+2735 a cartoon of children in a bus
+2736 a girl is doing gymnastics
+2737 a man in a blue shirt is standing in a kitchen
+2738 a man is talking about a car
+2739 pictures of a horse
+2740 a woman walks down a hallway while a man walks down a hallway
+2741 a lion is standing
+2742 a man in a black jacket and a black jacket is sitting in a chair
+2743 a man is talking
+2744 a trailer for a movie
+2745 a person is playing a video game
+2746 a man is fixing a battery
+2747 a man is talking to a group of people
+2748 a man is singing
+2749 a car is driving down the road
+2750 a view of a city is shown
+2751 a group of people are playing with a dog
+2752 a is recording the beautiful mountains and trees
+2753 a person is preparing food
+2754 a man is standing
+2755 a man and a woman are having a conversation
+2756 a woman is talking
+2757 a man is playing a guitar
+2758 a man is working on a car
+2759 a man is singing
+2760 a man and a woman are sitting at a table
+2761 a person is explaining something
+2762 a man is opening a bottle
+2763 a man is talking
+2764 a man in a suit and tie is talking to a man
+2765 two people are eating
+2766 there is a woman is talking about a dish
+2767 a woman is talking about a stroller
+2768 a man in a blue shirt is talking to an audience
+2769 a man is talking on stage
+2770 a man is talking about his website
+2771 a man in a white coat is talking to a man
+2772 someone is playing minecraft
+2773 a band is performing a song
+2774 a man is sitting in a car
+2775 a woman is talking
+2776 a woman is talking about a stroller
+2777 a man is standing
+2778 a woman is walking
+2779 a slideshow of pictures of a
+2780 a video of a car
+2781 a man is standing
+2782 a man in a hat hat and a hat
+2783 a man is standing
+2784 a man and woman are standing on the beach
+2785 a man is talking
+2786 a woman is talking
+2787 a man is talking
+2788 there is a man talking about a boat
+2789 a plane is flying over the sky
+2790 a man is looking at a man
+2791 a man is serving food
+2792 a man is standing
+2793 a man is talking
+2794 a woman is showing a car
+2795 a man is talking
+2796 a man is singing
+2797 a fish is swimming in the water
+2798 a woman is standing
+2799 two people are talking
+2800 spongebob and squidward are looking at himself
+2801 a cartoon character is talking
+2802 there is a man talking about the earth
+2803 a man is talking about a woman
+2804 a man in a suit is walking down a stage
+2805 a person is explaining something
+2806 a person is folding paper
+2807 a man is talking about something
+2808 a dog is running
+2809 a woman is singing
+2810 a cartoon character is in a field
+2811 a man is doing
+2812 a cartoon character is standing
+2813 a man is singing
+2814 a person is talking about food
+2815 a man is talking about a gun
+2816 a man is riding a motorcycle
+2817 a little boy is sitting in a chair and talking
+2818 a man is working on a machine
+2819 someone is showing a toy
+2820 a man is standing
+2821 a man is talking about a car
+2822 a man is singing
+2823 a man and woman are talking
+2824 a man is talking about a large
+2825 a man is singing and playing guitar
+2826 a woman speaks to a camera for a video segment
+2827 a cartoon of a animals
+2828 people are shopping in a store
+2829 a cartoon of a truck
+2830 a man is singing
+2831 a person is explaining something
+2832 there is a man in black is walking on the floor
+2833 a cat is sitting on the floor
+2834 a man is standing
+2835 a man is talking
+2836 a man is talking to a woman
+2837 a man is talking
+2838 a man is driving a car
+2839 a woman is playing a guitar
+2840 a man in a blue shirt is standing in front of a building
+2841 a choir is singing
+2842 a group of llamas are in a field
+2843 a man is on a roof
+2844 a woman is standing
+2845 a man in a suit is talking to a man
+2846 a woman is talking to a man
+2847 someone is showing a potato
+2848 a person is walking through the water and a person is walking
+2849 a person is standing in the rain
+2850 a young man in a black shirt is talking about something
+2851 a woman is walking
+2852 a man is talking on stage
+2853 a man in a suit is talking to a man
+2854 there is a man is talking about a
+2855 a man is talking
+2856 a woman is doing a backflip on a trampoline
+2857 a person is cooking
+2858 a woman in a blue shirt and a woman in a blue shirt and a pink shirt is holding a
+2859 a man in a suit is talking to a group of people
+2860 a woman is dancing
+2861 a man is talking to a crowd of people
+2862 a woman is shopping
+2863 there is a woman is walking on the grass
+2864 a video game is being played
+2865 a picture of a picture of a
+2866 a car is being displayed
+2867 a woman is talking to a man
+2868 fireworks are being shown
+2869 a woman is sitting in a chair
+2870 a horse is eating food in a stable
+2871 a man is singing
+2872 people are playing sports
+2873 a man is playing a guitar
+2874 a person is explaining something
+2875 a person is playing with toys
+2876 a person is using a knife to cut up a table
+2877 a man is talking about a
+2878 a woman is standing on a car
+2879 a man is talking
+2880 a cartoon of a boy and a girl
+2881 a man is playing a guitar
+2882 a man is showing how to make a
+2883 a commercial for a movie
+2884 a man is walking through a mall
+2885 a chef is cooking
+2886 a group of people are dancing
+2887 there is a beautiful resort with a building
+2888 a man in a black suit is talking to a man
+2889 a man is playing a guitar
+2890 a man in a black shirt and a bowl spoon mixing dish inside kitchen to prepare to serve to eat
+2891 a man is swimming in the pool
+2892 a man in a black shirt is riding on a vehicle
+2893 a man in a suit talks to a group of people
+2894 an animation of a man and a woman talking about the universe
+2895 a man is dancing
+2896 a man is singing
+2897 a video game is being played
+2898 a man is talking about a car
+2899 a man is doing hair
+2900 a man is talking
+2901 a man is driving a car
+2902 a man is walking around
+2903 a man is swimming
+2904 an advertisement for a company
+2905 a woman is standing
+2906 a man is talking
+2907 a woman is talking about her bag
+2908 a man in a suit is talking to a man
+2909 a person is playing a video game
+2910 a person is walking through a city
+2911 there is a woman talking about a product
+2912 a man and a woman are having a conversation
+2913 a man is sitting on a couch
+2914 a cartoon is playing
+2915 a woman is standing
+2916 a music video with lyrics
+2917 a man is talking about a planet
+2918 a man is standing
+2919 a man is talking about a product
+2920 people are playing football
+2921 a man is singing
+2922 a man in a pink shirt is putting on a bed
+2923 a video of a tornado
+2924 a person is drawing
+2925 there is a man walking in to the house
+2926 a man is singing
+2927 a car is being shown
+2928 a man is standing
+2929 a woman is talking on stage
+2930 a slideshow of a woman
+2931 a white dog is playing in the snow
+2932 a group of people are walking around
+2933 people are playing sports
+2934 a man is talking about a lizard
+2935 a woman is showing a man
+2936 a cartoon character is falling down
+2937 a horse is standing
+2938 a cat is in a cage
+2939 a man is cooking
+2940 a man is working on a computer
+2941 a man is walking
+2942 a woman in a striped shirt is in a kitchen
+2943 a woman is sitting in a bed
+2944 a man in a blue shirt and jeans and jeans is walking on a roof
+2945 a graph is being shown on a screen
+2946 a woman is showing how to use a
+2947 person is recording the big rocks in the mountain
+2948 a picture of a building
+2949 a man is in a kitchen
+2950 a man is working on a computer
+2951 a man is playing a guitar
+2952 a cartoon character is standing on the floor
+2953 a man is talking
+2954 a video of a logo
+2955 cartoon characters are dancing
+2956 a person is playing a video game
+2957 a car is shown
+2958 a person is doing crafts
+2959 a man is talking to a woman
+2960 a man is installing flooring
+2961 a woman is standing
+2962 a child is eating
+2963 a group of people are dancing
+2964 a cartoon character is standing
+2965 a cheetah is shown
+2966 a man is talking to another man
+2967 a man is working on a car
+2968 a man is standing in a car
+2969 there is a man swimming in the water
+2970 a woman is talking about a product
+2971 a woman is standing
+2972 a whale is in the water
+2973 a man is making a
+2974 a man is walking
+2975 someone is showing some food
+2976 a woman is talking
+2977 a man in a suit is talking
+2978 there are some people swimming in the water
+2979 a woman is clapping
+2980 a plane is flying in the sky
+2981 a man is talking
+2982 a cartoon is driving a car
+2983 a car is shown
+2984 a man in a blue shirt is walking on the road
+2985 a person is using a phone
+2986 cartoon characters are interacting
+2987 a man is talking to a man
+2988 a man is sitting in a chair
+2989 a car is driving on the road
+2990 a man is walking
+2991 a man is singing
+2992 a man is talking
+2993 a man is singing
+2994 a horse is eating
+2995 someone is showing some art
+2996 a man is talking
+2997 a man is talking about a new product
+2998 a man is drawing
+2999 someone is playing a video game
